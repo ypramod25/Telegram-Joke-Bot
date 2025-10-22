@@ -1,7 +1,7 @@
 ## Setup Instruction 
 1. **Clone the Repository**: Start by cloning the repository to your local machine using:
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/ypramod25/Telegram-Joke-Bot>
    cd TelegramBot
    ```
 2. **Install Dependencies**: Make sure you have Node.js installed, then run:
