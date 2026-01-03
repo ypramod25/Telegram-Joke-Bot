@@ -12,6 +12,7 @@ if (!TOKEN) {
   process.exit(1);
 }
 
+//create a bot that uses 'polling' to fetch new updates
 const bot = new TelegramBot(TOKEN, {polling: true});
 
 bot.on('message', (msg) => {//message event listener
